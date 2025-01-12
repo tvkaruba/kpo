@@ -1,2 +1,1 @@
-# kpo
-Materials for course "Software Design" for Software Engineering in HSE
+# Конструирование Программного Обеспечения (2025)
