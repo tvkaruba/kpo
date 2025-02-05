@@ -4,7 +4,7 @@ public class Car
 {
     private static readonly Random _random = new();
 
-    public required int Number { get; set; }
+    public required Guid Number { get; set; }
 
     public Engine Engine { get; }
 
