@@ -1,27 +1,52 @@
 # Конструирование Программного Обеспечения (2025)
 
-## Семинар #1
+**Таблицы с оценками за мини-тесты:**
 
-[Презентация](https://tvkaruba.github.io/kpo/s1/Семинар%20%231.pdf)
+* [БПИ237](https://disk.yandex.ru/i/hLnlkLSiXwNCEg)
+* [БПИ238](https://disk.yandex.ru/i/ZtguzQvcBso2EA)
 
-[Код](https://github.com/tvkaruba/kpo/tree/master/s1/S1.PedalCarAccauntingInformationSystem)
-
-ДЗ: доделать проект с семинара
-
-Сдавать сюда:
+**Таблицы для сдачи ДЗ:**
 
 * [БПИ237](https://disk.yandex.ru/i/4PpAPNsAh74t6g)
 * [БПИ238](https://disk.yandex.ru/i/DbqA51rEkxGO9A)
 
+На каждый семинар есть отдельный лист, не забывайте переключаться на нужный.
+Так как табличка доступна для редактирования всем, то я также попрошу вас вести себя в ней прилично :)
+
+## Семинар #1
+
+* [Презентация](https://tvkaruba.github.io/kpo/s1/Семинар%20%231.pdf)
+* [Код](https://github.com/tvkaruba/kpo/tree/master/s1/S1.PedalCarAccauntingInformationSystem)
+
+ДЗ: доделать проект с семинара
+
 ## Семинар #2
 
-[Презентация](https://tvkaruba.github.io/kpo/s1/Семинар%20%232.pdf)
-
-[Код](https://github.com/tvkaruba/kpo/tree/master/s2/S2.HseCarShop)
+* [Презентация](https://tvkaruba.github.io/kpo/s1/Семинар%20%232.pdf)
+* [Код](https://github.com/tvkaruba/kpo/tree/master/s2/S2.HseCarShop)
 
 ДЗ: доделать проект с семинара (я тут немного задержал исправленное задание, поэтому если кто сделал по старому, то тоже сдавайте, только укажите где-то какую версию задания вы выбрали). Старую версию задания можете найти свернутой в конце ридмишки
 
-Сдавать сюда:
+## Семинар #3
 
-* [БПИ237](https://disk.yandex.ru/i/BA9H1f56usEYzg)
-* [БПИ238](https://disk.yandex.ru/i/qVgRXJS_F2ydzw)
+* [Презентация](https://tvkaruba.github.io/kpo/s3/Семинар%20%233.pdf)
+
+## Семинар #4
+
+* [Лекция](https://tvkaruba.github.io/kpo/s4/Лекция%20%234.pdf)
+* [Запись семинара](https://disk.yandex.ru/i/xUxrn196tEar3Q)
+* [Презентация](https://tvkaruba.github.io/kpo/s4/Семинар%20%234.pdf)
+* [Код](https://github.com/tvkaruba/kpo/tree/master/s4/S2.HseCarShop)
+
+ДЗ (до 14.02.2025): В нашу систему добавились гибридные автомобили, также мы вынесли проверки подходит ли автомобиль
+в отдельный сервис (кстати, обратите внимание как это сделано). В общем, теперь метод SellCars немного поменялся
+и некоторые из тестов написанные на семинаре перестали работать! Нужно исправить сломанные тесты и дописать
+новые тесты которые бы покрывали добавившийся функционал (в идеале перепишите тесты так как они написаны ближе к концу,
+а не как в начале).
+
+## Семинар #5
+
+[мини-ДЗ по КПО #1](https://tvkaruba.github.io/kpo/s5/КПО-мини-ДЗ_1.pdf)
+
+
+
